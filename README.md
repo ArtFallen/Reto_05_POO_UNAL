@@ -4,15 +4,6 @@
 ### `main.py`
 Archivo principal para ejecutar el proyecto.
 
-### Carpeta `Operations/`
-Contiene scripts relacionados con operaciones matemáticas generales y de listas:
-
-- **mayor_suma_consecutiva.py**: Encuentra la mayor suma de una subsecuencia consecutiva.
-- **operaciones.py**: Funciones matemáticas generales.
-- **primos_de_lista.py**: Filtra o identifica números primos dentro de una lista.
-- **mismos_caracteres.py**: Verifica si dos palabras tienen los mismos caracteres.
-- **palindromo.py**: Comprueba si una palabra o frase es un palíndromo.
-
 ### Carpeta `Shape/`
 Contiene definiciones de clases y funciones para trabajar con geometría de figuras:
 
